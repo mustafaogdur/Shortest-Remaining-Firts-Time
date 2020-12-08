@@ -1,2 +1,2 @@
 # Shortest-Remaining-Firts-Time
-SRTF-Algorirhm
+SRTF-Algorithm
